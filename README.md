@@ -1,5 +1,5 @@
 # <p align="center">Netflix Shows and Movies Project</p>
-# <p align="center">![Pic](![Uploading image.png…]()
+# <p align="center">![Netflix Logo](https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png)
 )</p>
 
 **Tools Used:** Excel, MySQL, 
